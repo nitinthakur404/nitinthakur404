@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function menu() {
+export default function Menubar() {
     return (
         <div>
-            <h1>my name is nitin kumar</h1>
+            <h1>this is for Menubar</h1>
         </div>
     )
 }
